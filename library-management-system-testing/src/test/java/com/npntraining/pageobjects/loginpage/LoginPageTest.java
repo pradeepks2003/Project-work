@@ -48,4 +48,4 @@ public class LoginPageTest {
 	public static void tearDownAfterClass() {
 		driver.close();
 	}
-}
+} //TEST
